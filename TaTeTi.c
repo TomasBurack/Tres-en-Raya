@@ -121,5 +121,6 @@ int main(){
         printf("\n  1 2 3\n1 %d %d %d\n2 %d %d %d\n3 %d %d %d", tablero[0][0], tablero[0][1], tablero[0][2], tablero[1][0], tablero[1][1], tablero[1][2], tablero[2][0], tablero[2][1], tablero[2][2]);
         printf("\nHubo un empate");
     }
+    printf("Saliendo del programa...");
     return 0;
 }
